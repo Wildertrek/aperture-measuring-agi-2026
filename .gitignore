@@ -1,0 +1,17 @@
+# Personal notes — do not publish
+LESSONS_LEARNED.md
+
+# Standard Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Kaggle credentials
+kaggle.json
+.env
+
+# OS cruft
+.DS_Store
+Thumbs.db
